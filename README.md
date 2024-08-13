@@ -1,6 +1,10 @@
 # Animated SplashScreen
 
 `animated_splashscreen` is a Flutter package that provides an easy way to implement an animated splash screen in your Flutter apps. This package allows you to create smooth transitions and customizable splash screens with minimal code.
+## Example GIF
+
+<img src="https://raw.githubusercontent.com/SujithAlpts/animated_splashscreen/main/asset/alplms.gif" alt="Animated GIF" width="400"/>
+
 
 ## Features
 

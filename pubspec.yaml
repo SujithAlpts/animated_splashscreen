@@ -1,6 +1,6 @@
 name: alp_animated_splashscreen
 description: "Its a animated splashscreen published by Alp Turnkey Solutions pvt ltd, Its includes circle drop animation then expands to a full page"
-version: 0.0.3
+version: 0.0.6
 homepage: https://github.com/SujithAlpts/animated_splashscreen.git
 
 environment:
