@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:alp_animated_splashscreen/animated_splashscreen.dart';
+// import 'package:alp_animated_splashscreen/animated_splashscreen.dart';
 
 // void main() {
 //   test('adds one to input values', () {
